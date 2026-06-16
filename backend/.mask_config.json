@@ -1,0 +1,8 @@
+{
+  "masked_columns": [
+    "aadhar_number",
+    "abc_id",
+    "student_name",
+    "student_registration_id"
+  ]
+}

@@ -1,0 +1,19 @@
+# Python
+venv/
+__pycache__/
+*.pyc
+
+# Env files
+.env
+
+# PostgreSQL database files
+database/
+*.log
+*.pid
+pg_wal/
+pg_xact/
+global/
+base/
+
+# VS Code
+.vscode/
