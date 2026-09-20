@@ -2,6 +2,8 @@
 venv/
 __pycache__/
 *.pyc
+#CLI runtime state
+backend/.safe_sql_history
 
 # Env files
 .env

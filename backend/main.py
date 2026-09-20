@@ -418,8 +418,8 @@ if __name__ == "__main__":
 
     # DB connection created once — same credentials for all sessions
     db_config = {
-        "host": "localhost", "database": "Students",
-        "user": "postgres",  "password": "SQL", "port": "5432"
+        "host": "localhost", "database": "",
+        "user": "postgres",  "password": "", "port": ""
     }
     db_interface = DatabaseInterface(db_config)
 
