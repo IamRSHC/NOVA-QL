@@ -302,3 +302,8 @@ Not yet implemented — listed here as intent, not as features:
   or unmasked everywhere at once.
 - DB connection details live directly in source (`main.py`), not in
   environment variables or a config file.
+
+  ## License
+All rights reserved. This repository is public for portfolio/demonstration 
+purposes only. No permission is granted to copy, modify, or redistribute 
+this code without explicit written consent from the author.
